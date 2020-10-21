@@ -1,0 +1,14 @@
+C:\Users\Shailesh\source\repos\PassengerMicroservice\PassengerMicroservice\bin\Debug\netcoreapp2.1\PassengerMicroservice.deps.json
+C:\Users\Shailesh\source\repos\PassengerMicroservice\PassengerMicroservice\bin\Debug\netcoreapp2.1\PassengerMicroservice.runtimeconfig.json
+C:\Users\Shailesh\source\repos\PassengerMicroservice\PassengerMicroservice\bin\Debug\netcoreapp2.1\PassengerMicroservice.runtimeconfig.dev.json
+C:\Users\Shailesh\source\repos\PassengerMicroservice\PassengerMicroservice\bin\Debug\netcoreapp2.1\PassengerMicroservice.dll
+C:\Users\Shailesh\source\repos\PassengerMicroservice\PassengerMicroservice\obj\Debug\netcoreapp2.1\PassengerMicroservice.csprojAssemblyReference.cache
+C:\Users\Shailesh\source\repos\PassengerMicroservice\PassengerMicroservice\obj\Debug\netcoreapp2.1\PassengerMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\Shailesh\source\repos\PassengerMicroservice\PassengerMicroservice\obj\Debug\netcoreapp2.1\PassengerMicroservice.RazorAssemblyInfo.cache
+C:\Users\Shailesh\source\repos\PassengerMicroservice\PassengerMicroservice\obj\Debug\netcoreapp2.1\PassengerMicroservice.RazorAssemblyInfo.cs
+C:\Users\Shailesh\source\repos\PassengerMicroservice\PassengerMicroservice\obj\Debug\netcoreapp2.1\PassengerMicroservice.AssemblyInfoInputs.cache
+C:\Users\Shailesh\source\repos\PassengerMicroservice\PassengerMicroservice\obj\Debug\netcoreapp2.1\PassengerMicroservice.AssemblyInfo.cs
+C:\Users\Shailesh\source\repos\PassengerMicroservice\PassengerMicroservice\obj\Debug\netcoreapp2.1\PassengerMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\Shailesh\source\repos\PassengerMicroservice\PassengerMicroservice\bin\Debug\netcoreapp2.1\PassengerMicroservice.pdb
+C:\Users\Shailesh\source\repos\PassengerMicroservice\PassengerMicroservice\obj\Debug\netcoreapp2.1\PassengerMicroservice.dll
+C:\Users\Shailesh\source\repos\PassengerMicroservice\PassengerMicroservice\obj\Debug\netcoreapp2.1\PassengerMicroservice.pdb
